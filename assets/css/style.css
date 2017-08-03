@@ -1,0 +1,29 @@
+body {
+	background-color: #fff;
+	background: 	#fff;
+}
+
+.myjumbotron {
+	color: red;
+	background-color: green;
+	border: 8px dashed blue;
+	text-align: center;
+}
+
+.container a {
+	text-align: 	center;
+
+}
+
+.bold {
+	text: 1.25em;
+}
+
+.tc-navbar-brand {
+	color: green;
+}
+
+/* Title */
+.navbar-default .navbar-brand {
+    color: #333;
+}
