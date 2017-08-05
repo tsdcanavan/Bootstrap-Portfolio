@@ -27,3 +27,30 @@ body {
 .navbar-default .navbar-brand {
     color: #333;
 }
+
+.tc-panel-default {
+	background: #fff; 
+	color: #4aaaa5; 
+	font-weight: bold;
+}
+
+.tc-center {
+	align-items: 	center;
+}
+
+.tc-portfolio-image {
+	width: 	200px;
+	padding-right: 	10px;
+}
+.tc-image {
+	max-width: 150px; 
+	margin-left: -20px; 
+}
+
+.tc-footer {
+	float: fixed; 
+	padding: 20px; 
+	margin: 20px; 
+	background: grey; 
+	text-align: center;
+}
